@@ -4,3 +4,28 @@ This is a simple calculator project built using **Object-Oriented Programming (O
 
 ## 📁 Project Structure
 
+## 🚀 Features
+
+- Object-Oriented implementation
+- Arithmetic operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division (with division-by-zero check)
+- Demonstrates:
+  - Class creation
+  - Method overriding
+  - Inheritance
+
+## 🧱 Class Structure
+
+### `calculator`
+Base class providing core operations:
+```python
+add(a, b)
+subtraction(a, b)
+multiply(a, b)
+divide(a, b)
+```
+
+
